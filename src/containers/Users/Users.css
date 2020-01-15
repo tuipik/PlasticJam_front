@@ -1,0 +1,13 @@
+.Users .pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Users .pagination .arrow {
+    cursor: pointer;
+}
+
+.Users .currentPage {
+    margin: 0 10px;
+}
